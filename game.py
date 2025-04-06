@@ -12,15 +12,7 @@ from ocr import OCR
 import cv2
 
 """
-To do:
-2 Miscrits can appear in same battle -> check for name change and handle correctly. (For stats and captures)
-Handle level ups.
-Daily Quest interfiance
-
-Improvements:
-Identify Legendaries by name (create small database). Do not bother with colors coz they are annoying to deal with.
-Heal when needed.
-
+Github issues :)
 """
 
 class BattleInfo:
