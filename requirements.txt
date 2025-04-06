@@ -1,0 +1,5 @@
+pyautogui
+easyocr
+opencv-python
+pywin32
+mss

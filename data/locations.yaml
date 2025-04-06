@@ -1,0 +1,185 @@
+positions:
+  Default:
+    Encounter:
+      location: top
+      name: encounter
+      x: 0.5
+      # y: 0.41
+      y: 0.4243827160493827
+      location_type: Point
+  Battle:
+    Attack:
+      location: bottom
+      name: Attack
+      x: 0.2873263888888889
+      y: 0.9182098765432098
+      location_type: Point
+    Capture:
+      location: top
+      location_type: Point
+      name: Capture
+      x: 0.4947916666666667
+      y: 0.18209876543209877
+    Difficulty:
+      location: top
+      name: Difficulty
+      x1: 0.6814236111111112
+      x2: 0.7317708333333334
+      y1: 0.035493827160493825
+      y2: 0.05864197530864197
+      location_type: BoundingBox
+    Name:
+      location: top
+      name: Name
+      x1: 0.6701388888888888
+      x2: 0.7413194444444444
+      y1: 0.06481481481481481
+      y2: 0.09104938271604938
+      location_type: BoundingBox
+    Level:
+      location: top
+      name: Level
+      x1: 0.6571180555555556
+      x2: 0.6684027777777778
+      y1: 0.07253086419753087
+      y2: 0.09259259259259259
+      location_type: BoundingBox
+    Level - mine:
+      location: top
+      name: Level - mine
+      x1: 0.2621527777777778
+      x2: 0.2751736111111111
+      y1: 0.07098765432098765
+      y2: 0.09259259259259259
+      location_type: BoundingBox
+    Name - mine:
+      location: top
+      name: Name - mine
+      x1: 0.2777777777777778
+      x2: 0.3463541666666667
+      y1: 0.06481481481481481
+      y2: 0.09104938271604938
+      location_type: BoundingBox
+    HP - mine:
+      location: top
+      name: HP - mine
+      x1: 0.3125
+      x2: 0.354
+      y1: 0.109
+      y2: 0.125
+      location_type: BoundingBox
+    Capture Rate: 
+      location: top
+      name: Capture Rate
+      x1: 0.48
+      x2: 0.518
+      y1: 0.207
+      y2: 0.235
+      location_type: BoundingBox
+    Element:
+      location: top
+      name: Element
+      x1: 0.7421875
+      x2: 0.7638888888888888
+      y1: 0.04938271604938271
+      y2: 0.09259259259259259
+      location_type: BoundingBox
+    Element - mine:
+      location: top
+      name: Element - mine
+      x1: 0.3472222222222222
+      x2: 0.3723958333333333
+      y1: 0.047839506172839504
+      y2: 0.0941358024691358
+      location_type: BoundingBox
+  BattleCaptured:
+    Captured okay text:
+      location: center
+      location_type: BoundingBox
+      name: Captured okay text
+      x1: 0.445
+      x2: 0.493
+      y1: 0.584
+      y2: 0.615
+    Captured okay:
+      location: center
+      location_type: Point
+      name: Captured okay
+      x: 0.4696180555555556
+      y: 0.6033950617283951
+  Summary:
+    Continue:
+      location: center
+      location_type: Point
+      name: Continue
+      x: 0.4965277777777778
+      y: 0.8611111111111112
+    Gold:
+      location: center
+      location_type: BoundingBox
+      name: Gold
+      x1: 0.4913194444444444
+      x2: 0.546875
+      y1: 0.6774691358024691
+      y2: 0.7484567901234568
+    Rewards text:
+      location: center
+      location_type: BoundingBox
+      name: Rewards text
+      x1: 0.455
+      x2: 0.545
+      y1: 0.593
+      y2: 0.627
+    Level 1:
+      location: center
+      location_type: Point
+      name: Level 1
+      x: 0.3315972222222222
+      y: 0.375
+    Level 2:
+      location: center
+      location_type: Point
+      name: Level 2
+      x: 0.46875
+      y: 0.375
+    Level 3:
+      location: center
+      location_type: Point
+      name: Level 3
+      x: 0.3315972222222222
+      y: 0.5354938271604939
+    Level 4:
+      location: center
+      location_type: Point
+      name: Level 4
+      x: 0.46875
+      y: 0.5354938271604939
+  SummaryCapture:
+    Keep:
+      location: center
+      location_type: Point
+      name: Keep
+      x: 0.4479166666666667
+      y: 0.6697530864197531
+    Keep text:
+      location: center
+      location_type: BoundingBox
+      name: Keep text
+      x1: 0.428
+      x2: 0.468
+      y1: 0.656
+      y2: 0.681
+  Test:
+    Capture Rate: 
+      location: top
+      name: Capture Rate
+      x1: 0.48
+      x2: 0.518
+      y1: 0.207
+      y2: 0.235
+      location_type: BoundingBox
+
+    
+size:
+  height: 648
+  width: 1152
